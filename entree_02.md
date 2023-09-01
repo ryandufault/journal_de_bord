@@ -33,8 +33,8 @@ J'aime beaucoup Fatal Frame 1 car son style graphique me fascine. Malgré que le
 Aujourd'hui, beaucoup pensent que les graphismes et les textures ne sont que là pour être esthétiquement joli, mais Fatal Frame 1 a utilisé le graphisme et les textures à son avantage et en a fait quelque chose d'effrayant, ce qui a fait sortir le jeu du lot. C'est pourquoi le graphisme et l'illustration est une partie du multimédia qui m'intéresse.
 
 ### [Polytechnique](https://fr.wikipedia.org/wiki/Polytechnique_(film))
-Polytechnique est un film non-linéaire éméttant des émotions fortes, qui m'inspire beaucoup avec son style de montage. Les différentes perspectives au différents moments montrent comment le montage peut être un outil puissant pour raconter une histoire complexe, ce qui me fascine beaucoup
+Polytechnique est un film non-linéaire émettant des émotions fortes, qui m'inspire beaucoup avec son style de montage. Les différentes perspectives aux différents moments montrent comment le montage peut être un outil puissant pour raconter une histoire complexe, ce qui me fascine beaucoup
 
 ### [La région centrale](https://www.youtube.com/watch?v=uYr_SvIKKuI)
-La région centrale est un court métrage expérimental réalisé en 1971. Le montage complexe et hypnotique me fascine beaucoup vu que le film a été réalisé plus de 50 ans avant.
+La région centrale est un court-métrage expérimental réalisé en 1971. Le montage complexe et hypnotique me fascine beaucoup vu que le film a été réalisé plus de 50 ans avant.
 
