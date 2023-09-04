@@ -38,3 +38,5 @@ Polytechnique est un film non-linéaire émettant des émotions fortes, qui m'in
 ### [La région centrale](https://www.youtube.com/watch?v=uYr_SvIKKuI)
 La région centrale est un court-métrage expérimental réalisé en 1971. Le montage complexe et hypnotique me fascine beaucoup vu que le film a été réalisé plus de 50 ans avant.
 
+### [La Guerre des tuques 3D](https://fr.wikipedia.org/wiki/La_Guerre_des_tuques_3D)
+J'aime beaucoup cet oeuvre car selon moi la 3D est très bien exécutée. Le film adapte parfaitement l'histoire d'origine et m'inspire à vouloir refaire des remake d'oeuvres en 3D. Ce film est un très bon exemple pour démontrer comment la 3D peut être utilisée pour donner une nouvelle vie à des oeuvres classiques
