@@ -10,9 +10,10 @@ J'aime beaucoup l'audio et le montage vidéo donc j'aimerais me spécaliser la d
 ### Emplois qui vous intéressent
 - Monteur vidéo
 - Technicien de son
+- Professeur en audiovisuel au secondaire
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi.
 
 ### Dans 5 ans
 Dans 5 ans je pense peut-être aller à l'université poursuivre mes études si je ne trouve pas d'emplois ou que trouver un emploi semble trop difficile.
