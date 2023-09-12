@@ -16,5 +16,6 @@ Choisissez des emplois qui pourraient vous intéresser.
 
 ### UI designer/Designer graphique
 L'UI designer est responsable de la conception de l'interface qui lie l'utilisateur au produit. On peux pratiquer ce métier en bureau, à domicile ou en freelance. Il faut être créatif et précis pour pratiquer ce métier. J'aimerais pratiquer ce métier parce que le cours de web m'intéresse beaucoup ainsi que le cours de design graphique aussi donc en faire mon métier serait sympathique. L'inconvénient du métier serait encore une fois les dates limites.
-### Emploi 5 - Identification
-4 à 5 lignes
+
+### Modeleur 3D
+Ce métier consiste à réaliser une idée en trois dimensions sur un logiciel de 3D. On pratique le métier généralement en bureau mais aussi à domicile ou en freelance. Pour pratiquer ce métier il faut être créatif, patient et très précis. J'aimerais pratiquer ce métier car j'aimerais en apprendre plus sur la modélisation 3D. Le point que je trouve négatif pour ce métier serait le salaire.
