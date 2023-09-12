@@ -14,8 +14,7 @@ Choisissez des emplois qui pourraient vous intéresser.
 ### Technicien du son
 Être technicien du son consiste à être un spécialiste de la sonorisation pour différents types d'entreprises comme le cinéma, la radio ou la télévision. On pratique le métier sur place. Je pense que pour pratiquer le métier il faut être créatif et précis. Ce métier m'intéresse parce que l'audio et le mixage me passionne. Ce que j'aime moins de ce métier serait les horaires chargés.
 
-### Emploi 4 - Identification
-4 à 5 lignes
-
+### UI designer/Designer graphique
+L'UI designer est responsable de la conception de l'interface qui lie l'utilisateur au produit. On peux pratiquer ce métier en bureau, à domicile ou en freelance. Il faut être créatif et précis pour pratiquer ce métier. J'aimerais pratiquer ce métier parce que le cours de web m'intéresse beaucoup ainsi que le cours de design graphique aussi donc en faire mon métier serait sympathique. L'inconvénient du métier serait encore une fois les dates limites.
 ### Emploi 5 - Identification
 4 à 5 lignes
