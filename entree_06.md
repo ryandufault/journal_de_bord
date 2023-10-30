@@ -1,11 +1,10 @@
 # Entrée 6
 ## Analyse critique d'une oeuvre
 
-L’objectif de cet exercice est de développer une opinion sur une œuvre multimédia. Pour l’analyse, choisissez l’une des œuvres que nous avons visitées. 
-
-Entre 300 et 400 mots. 
-
 ### Description
+
+L'oeuvre que nous avions visités était l'escape game intitulé le Jubilé d'or. Dans cet escape game, l'audio jouait un grand rôle dans l'expérience et nous aidait beaucoup. Il y avais plusieurs haut parleurs nous donnant des indices en utilisant des conversations de personnages fictifs qui avaient un lien avec l'escape game. Il y avait aussi d'ailleurs beaucoup de lumières qui nous aidait, étant donné que l'escape game se déroulait dans une mine (et que c'était donc sombre).  
+
 Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
 
 ### Opinion
