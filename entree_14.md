@@ -1,4 +1,4 @@
 # Entrée 14
 ## Rétrospective de la session
 
-En 8 à 12 lignes; écris un retour sur ta session. Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? As-tu découvert un nouveau métier qui pourrait t'intéresser? As-tu découvert un nouvel artiste qui t'a inspiré? Pour quel type d'entreprise préférerais-tu travailler? Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? Est-ce que tu as préféré une sortie ou une conférence? 
+Au cours de cette session, j'ai découvert beaucoup de choses sur le domain du multimédia. J'en ai notamment appris plus sur les composants des ordinateurs et aussi sur les droits d'auteurs. J'ai aussi découvert le métier de preneur de son et éclairagiste qui pourraient être des métiers qui peuvent m'intéresser. Je pense que je souhaiterais travailler dans des entreprises locales et ancrées dans le domaine du multimédia et acquérir de l'expérience pour peut-être devenir professeur dans le domaine. J'ai beaucoup été intéressé par le domaine d'illustration numérique au cours de la session. J'ai bien aimé aussi la sortie qu'on a eu. Je ne tire que du positif de cette session.
