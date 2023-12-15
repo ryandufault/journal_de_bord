@@ -12,15 +12,13 @@ Permettre la conversion d'audio en notes MIDI ainsi que la séparation de piste 
 Principalement l'intelligence artificielle.
 
 ### Tâches
-DÉVELOPPEMENT DE L’IA
-ENTRAINEMENT DE L’IA PRINCIPALE
-INTERFACE UI/UX
-ILLUSTRATIONS UI
-DÉVELOPPEMENT
-DÉBOGAGE
-OPTIMISATION
-DOCUMENTATION
-DÉPLOIEMENT
-MAINTEANCE
-
-
+* Développement de l’ia
+* Entrainement de l’ia principale
+* Interface ui/ux
+* Illustrations ui
+* Développement
+* Débogage
+* Optimisation
+* Documentation
+* Déploiement
+* Mainteance
